@@ -1,6 +1,6 @@
 # Introduction
 
-This repository is an assignment from UC Davis's Data Analytics bootcamp, which consists of a two-part excercise. Part I, WeatherPy, visualizes the weather of 500+ cities, across the world of varying distances from the equator, retrieveing data from the OpenWehaterMap API. In Part II, VactionPy, builds upon data acquired from Part I to plan a future vacation. I will use jupyter-maps and Goolge Places API to display humidity information on a heat map, find ideal weather conditions and select a hotel for each city within 5000 meters of the selected coordinates. Lastly, hotels are plotted on top of the humidity heatmap, with a pin containing the hotel name, city and country.
+This repository is an assignment from UC Davis's Data Analytics bootcamp, which consists of a two-part excercise. Part I, WeatherPy, visualizes the weather of 500+ cities, across the world of varying distances from the equator, retrieveing data from the OpenWehaterMap API. In Part II, VactionPy, builds upon data acquired from Part I to plan a future vacation, using jupyter-maps and Goolge Places API to display humidity information on a heat map, find ideal weather conditions and select a hotel for each city within 5000 meters of the selected coordinates. Lastly, hotels are plotted on top of the humidity heatmap, with a pin containing the hotel name, city and country.
 
 ## Table of contents
 * [General info](#general-info)
