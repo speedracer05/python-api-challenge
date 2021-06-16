@@ -1,6 +1,6 @@
 # Introduction
 
-This repository is an assignment from UC Davis's Data Analytics bootcamp, which consists of a two-part excercise. Part I, WeatherPy, visualizes the weather of 500+ cities, across the world of varying distances from the equator, retrieveing data from the OpenWehaterMap API. In Part II, VactionPy, builds upon data acquired from Part I to plan a future vacation, using jupyter-maps and Goolge Places API to display humidity information on a heat map, find ideal weather conditions and select a hotel for each city within 5000 meters of the selected coordinates. Lastly, hotels are plotted on top of the humidity heatmap, with a pin containing the hotel name, city and country.
+This repository is an assignment from UC Davis's Data Analytics bootcamp. Part I, WeatherPy, visualizes the weather of 800+ cities, across the world of varying distances from the equator, retrieveing data using the OpenWeatherMap API. In Part II, VactionPy, builds upon data acquired from Part I to plan a future vacation, using jupyter-maps and Goolge Places API to display humidity information on a heat map, find ideal weather conditions and select a hotel for each city within 5000 meters of the selected coordinates. Lastly, hotels are plotted on top of the humidity heatmap, with a pin containing the hotel name, city and country.
 
 ## Table of contents
 * [General info](#general-info)
@@ -10,7 +10,7 @@ This repository is an assignment from UC Davis's Data Analytics bootcamp, which 
 <b> Project Discription </b>: Generate all of the tables and figures needed to produce a technical report of the study. 
 
 ## General Information
- 
+The code analyzes the relationship between the city latitude and various weather attributes, e.g. temperature and humidity. Data is taken from city_data_df, using 'o' as a marker to plot the City_Lat and Temperature as x,y coordinates. What makes this assignment unique is that I employed Matpltlib's colormap to map values to a color gradient, with the lowest temperature in blue, and the highest in red. A colorbar was also added to aid in identifying color to numerical range. Regression analysis was conducted using R-squared to identify how close the data fit to the regression line that was plotted.
 
 
 ## Technologies
