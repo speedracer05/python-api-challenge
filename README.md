@@ -16,12 +16,13 @@ This repository is an assignment from UC Davis's Data Analytics bootcamp, which 
 ## Technologies
 ```python
 # Dependencies & Setup
-import requests
-import matplotlib.pyplot
 import pandas as pd
+import requests
+import matplotlib.pyplot as plt
 import numpy as np
 import time
-
+from scipy.stats import linregress
+from datetime import datetime
 from citipy import citipy
 from config import api_key
 ```
