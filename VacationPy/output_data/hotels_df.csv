@@ -1,13 +1,13 @@
-,City,Country,Latitude,Longitude,Date,Hotel Name
-13,Rome,US,34.257,-85.1647,2021-06-17 17:57:41,La Quinta Inn & Suites by Wyndham Rome
-79,Hamilton,US,39.1834,-84.5333,2021-06-17 18:00:10,Six Acres Bed & Breakfast
-99,Russell,US,32.3502,-85.1999,2021-06-17 18:00:06,Macs
-260,Prainha,BR,-1.8,-53.48,2021-06-17 18:01:38,Casa Rocha
-271,Havelock,US,34.8791,-76.9013,2021-06-17 18:01:43,Sherwood Motel
-355,Umluj,SA,25.0213,37.2685,2021-06-17 18:02:19,Moon light Furnished Units
-357,Bone,DE,51.9669,12.1396,2021-06-17 18:02:20,Sporthotel Wallwitz
-389,Bandar-e Lengeh,IR,26.5579,54.8807,2021-06-17 18:02:36,کافی نت پارس
-464,MaracaÃ§umÃ©,BR,-2.0428,-45.9592,2021-06-17 18:03:06,Hotel Ramos
-474,Novokayakent,RU,42.3937,47.9861,2021-06-17 18:03:10,"Baza Otdykha ""Svyazist"""
-567,Greenville,US,35.6127,-77.3663,2021-06-17 18:03:41,the 5th Street Inn
-628,Paragominas,BR,-2.9667,-47.4833,2021-06-17 18:00:35,INOVA
+,City,Latitude,Longitude,Country,Date,Hotel Name
+13,Rome,34.257,-85.1647,US,2021-06-17 17:57:41,La Quinta Inn & Suites by Wyndham Rome
+79,Hamilton,39.1834,-84.5333,US,2021-06-17 18:00:10,Six Acres Bed & Breakfast
+99,Russell,32.3502,-85.1999,US,2021-06-17 18:00:06,Macs
+260,Prainha,-1.8,-53.48,BR,2021-06-17 18:01:38,Casa Rocha
+271,Havelock,34.8791,-76.9013,US,2021-06-17 18:01:43,Sherwood Motel
+355,Umluj,25.0213,37.2685,SA,2021-06-17 18:02:19,Moon light Furnished Units
+357,Bone,51.9669,12.1396,DE,2021-06-17 18:02:20,Sporthotel Wallwitz
+389,Bandar-e Lengeh,26.5579,54.8807,IR,2021-06-17 18:02:36,کافی نت پارس
+464,MaracaÃ§umÃ©,-2.0428,-45.9592,BR,2021-06-17 18:03:06,Hotel Ramos
+474,Novokayakent,42.3937,47.9861,RU,2021-06-17 18:03:10,"Baza Otdykha ""Svyazist"""
+567,Greenville,35.6127,-77.3663,US,2021-06-17 18:03:41,the 5th Street Inn
+628,Paragominas,-2.9667,-47.4833,BR,2021-06-17 18:00:35,INOVA
