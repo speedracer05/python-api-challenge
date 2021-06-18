@@ -1,4 +1,4 @@
-,City_Name,City_Lat,City_Long,Temperature,Humidity,Cloudiness,Wind_Speed,Country,Date
+,City,Latitude,Longitude,Temperature,Humidity,Cloudiness,Wind Speed,Country,Date
 0,MahÃ©bourg,-20.4081,57.7,70.09,94,75,9.22,MU,2021-06-17 17:59:38
 1,Oranjestad,12.524000000000001,-70.027,89.55,62,20,21.85,AW,2021-06-17 17:59:39
 2,Grand Gaube,-20.0064,57.6608,70.38,84,14,1.99,MU,2021-06-17 17:59:39
