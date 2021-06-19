@@ -25,7 +25,7 @@ The code analyzes the relationship between the city latitude and various weather
 ##### Temperature (F) vs. Latitude, Southern Hemisphere
 <p>In the Southern Hemispeher, the regression line shows a stronger correlation than found in the Northern Hemisphere. City temperatures increase the closer they are to the equator. The R-squared value, at 55% shows there is a relationship.<p/>
 
-<img src="https://github.com/speedracer05/python-api-challenge/raw/main/WeatherPy/Images/SH_lin_regres_temp-vs-lat.png" width=50% heigth=50%>
+<img src="https://github.com/speedracer05/python-api-challenge/raw/main/WeatherPy/Images/SH_lin_regres_temp-vs-lat.png" width=75% heigth=75%>
 
 ##### City Heatmap
 <p>Using city latitude and longitude information, humidity data was pulled from the OpenWeatherMap API. The heatmap layer was then overlayed onto Google Maps.<p/>
