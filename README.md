@@ -4,7 +4,7 @@ I wrote a Python script to visualize the weather of 800+ cities across the world
 
 A [Python library](https://pypi.python.org/pypi/citipy) and [OpenWeatherMap API](https://openweathermap.org/api) was used to randomly generate 1,500 geo-coordinates and find nearby cities. City names then were transformed into geo-coordinates, with current, local weather conditions. 
 
-My Python script in jupyter notebook can be found [here]https://github.com/speedracer05/python-api-challenge/tree/main/WeatherPy 
+Check jupyter notebook to see my Python script [here]https://github.com/speedracer05/python-api-challenge/tree/main/WeatherPy 
 
 A humidity heatmap was created using JavaScript API to overlay onto Google Maps,
 
