@@ -1,4 +1,6 @@
-# Introduction
+# Python API Project - How's the Weather?
+----
+## Introduction
 
 I wrote a Python script to visualize the weather of 800+ cities across the world of varying distances from the equator. 
 
