@@ -12,6 +12,7 @@ In Part II, I utilized Google's [Maps JavaScript API](https://console.cloud.goog
 
 ## Table of contents
 * [General info](#general-info)
+* [Observation](#observation)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
@@ -20,6 +21,10 @@ In Part II, I utilized Google's [Maps JavaScript API](https://console.cloud.goog
 ## General Information
 The code analyzes the relationship between the city latitude and various weather attributes, e.g. temperature and humidity. Data is taken from city_data_df, using 'o' as a marker to plot the City_Lat and Temperature as x,y coordinates. What makes this assignment unique is that I employed Matpltlib's colormap to map values to a color gradient, with the lowest temperature in blue, and the highest in red. A colorbar was also added to aid in identifying color to numerical range. Regression analysis was conducted using R-squared to identify how close the data fit to the regression line that was plotted.
 
+## Observation
+- Temperature (F) vs. Latitude, Southern Hemisphere
+In the Southern Hemispeher, the regression line shows a stronger correlation than found in the Northern Hemisphere. City temperatures increase the closer they are to the equator. The R-squared value, at 55% shows there is a relationship.
+![temp](WeatherPy/Images/SH_lin_regres_temp-vs-lat.png)
 
 ## Technologies
 ```python
