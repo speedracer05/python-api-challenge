@@ -5,9 +5,9 @@
 I wrote a Python script to visualize the weather of 800+ cities across the world of varying distances from the equator. 
 
 In Part I, a [Python library](https://pypi.python.org/pypi/citipy) and [OpenWeatherMap API](https://openweathermap.org/api) were used to randomly generate 1,500 geo-coordinates and find nearby cities. City names then were transformed into geo-coordinates, with current, local weather conditions. 
-Check jupyter notebook to see my Python script [here](https://github.com/speedracer05/python-api-challenge/tree/main/WeatherPy) 
+Check jupyter notebook to see my Python script [here](https://github.com/speedracer05/python-api-challenge/tree/main/WeatherPy).
 
-In Part II, I utilized Google's [Maps JavaScript API](https://console.cloud.google.com/google/maps-apis/overview?_ga=2.259088460.734465233.1623904021-2015074083.1618676914&project=ucd-bootcamp-maps&folder=&organizationId=), and cities data from Part I, to create and overlay a heatmap onto Google Maps. Summer-like weather criteria were then used to programatically filter, and select a dozen cities for my next adventure. The Google [Places API](https://developers.google.com/maps/documentation/places/web-service/overview?hl=en_US) was used to find lodging within 5,000 meters 
+In Part II, I utilized Google's [Maps JavaScript API](https://console.cloud.google.com/google/maps-apis/overview?_ga=2.259088460.734465233.1623904021-2015074083.1618676914&project=ucd-bootcamp-maps&folder=&organizationId=), and cities data from Part I, to create and overlay a heatmap onto Google Maps. Summer-like weather criteria were then used to programatically filter, and select a dozen cities for my next adventure. The Google [Places API](https://developers.google.com/maps/documentation/places/web-service/overview?hl=en_US) was used to find lodging within 5,000 meters.
 
 
 ## Table of contents
