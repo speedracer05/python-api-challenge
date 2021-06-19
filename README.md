@@ -1,6 +1,15 @@
 # Introduction
 
-This repository is an assignment from UC Davis's Data Analytics bootcamp. Part I, WeatherPy, visualizes the weather of 800+ cities, across the world of varying distances from the equator, retrieveing data using the OpenWeatherMap API. In Part II, VactionPy, builds upon data acquired from Part I to plan a future vacation, using jupyter-maps and Goolge Places API to display humidity information on a heat map, find ideal weather conditions and select a hotel for each city within 5000 meters of the selected coordinates. Lastly, hotels are plotted on top of the humidity heatmap, with a pin containing the hotel name, city and country.
+I wrote a Python script to visualize the weather of 800+ cities across the world of varying distances from the equator. 
+
+A [Python library](https://pypi.python.org/pypi/citipy) and [OpenWeatherMap API](https://openweathermap.org/api) was used to randomly generate 1,500 geo-coordinates and find nearby cities. City names then were transformed into geo-coordinates, with current, local weather conditions. You can check out my Python script in Jupyter Notebook [here]https://github.com/speedracer05/python-api-challenge/tree/main/WeatherPy 
+
+
+A humidity heatmap was created using JavaScript API to overlay onto Google Maps,
+
+Now it was time to look for my next vacation. Summer-like weather criteria was then used to programatically filter, and select a dozen cities for my next adventure. City geo-coordinates were used to find nearby lodging  Cities were automatically selected by using  to filter the cities.  . The Google Places API was used to find lodging within 5,000 meters located nearby the 
+
+and Places API. locations. The data was  visualize the weather of 800+ cities, across the world of varying distances from the equator. Random coordinates were generated, then used to find the nearest cities.  based on a defined range of latitudes. In Part II, VactionPy, builds upon data acquired from Part I to plan a future vacation, using jupyter-maps and Goolge Places API to display humidity information on a heat map, find ideal weather conditions and select a hotel for each city within 5000 meters of the selected coordinates. Lastly, hotels are plotted on top of the humidity heatmap, with a pin containing the hotel name, city and country.
 
 ## Table of contents
 * [General info](#general-info)
