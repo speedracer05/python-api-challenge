@@ -2,11 +2,10 @@
 
 I wrote a Python script to visualize the weather of 800+ cities across the world of varying distances from the equator. 
 
-A [Python library](https://pypi.python.org/pypi/citipy) and [OpenWeatherMap API](https://openweathermap.org/api) was used to randomly generate 1,500 geo-coordinates and find nearby cities. City names then were transformed into geo-coordinates, with current, local weather conditions. 
-
+In Part I, a [Python library](https://pypi.python.org/pypi/citipy) and [OpenWeatherMap API](https://openweathermap.org/api) was used to randomly generate 1,500 geo-coordinates and find nearby cities. City names then were transformed into geo-coordinates, with current, local weather conditions. 
 Check jupyter notebook to see my Python script [here]https://github.com/speedracer05/python-api-challenge/tree/main/WeatherPy 
 
-A humidity heatmap was created using JavaScript API to overlay onto Google Maps,
+In Part II, a humidity heatmap was created using JavaScript API to overlay onto Google Maps,
 
 Now it was time to look for my next vacation. Summer-like weather criteria was then used to programatically filter, and select a dozen cities for my next adventure. City geo-coordinates were used to find nearby lodging  Cities were automatically selected by using  to filter the cities.  . The Google Places API was used to find lodging within 5,000 meters located nearby the 
 
