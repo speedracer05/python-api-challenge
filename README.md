@@ -30,7 +30,7 @@ The code analyzes the relationship between the city latitude and various weather
 ##### City Heatmap
 <p>Using city latitude and longitude information, humidity data was pulled from the OpenWeatherMap API. The heatmap layer was then overlayed onto Google Maps.<p/>
 
-<img src="https://github.com/speedracer05/python-api-challenge/blob/main/VacationPy/Images/Heat_Map.png?raw=true" width=75% heigth=75%>
+<img src="https://github.com/speedracer05/python-api-challenge/blob/main/VacationPy/Images/Heat_Map.png?raw=true" width=75% heigth=85%>
 
 ## Technologies
 ```python
