@@ -2,7 +2,9 @@
 
 I wrote a Python script to visualize the weather of 800+ cities across the world of varying distances from the equator. 
 
-A [Python library](https://pypi.python.org/pypi/citipy) and [OpenWeatherMap API](https://openweathermap.org/api) was used to randomly generate 1,500 geo-coordinates and find nearby cities. City names then were transformed into geo-coordinates, with current, local weather conditions. You can check out my Python script in Jupyter Notebook [here]https://github.com/speedracer05/python-api-challenge/tree/main/WeatherPy 
+A [Python library](https://pypi.python.org/pypi/citipy) and [OpenWeatherMap API](https://openweathermap.org/api) was used to randomly generate 1,500 geo-coordinates and find nearby cities. City names then were transformed into geo-coordinates, with current, local weather conditions. 
+
+You can check out my Python script in Jupyter Notebook [here]https://github.com/speedracer05/python-api-challenge/tree/main/WeatherPy 
 
  [here](https://github.com/kanamoore/python-api-challenge/blob/master/WeatherPy/WeatherPy.ipynb)
 
