@@ -7,7 +7,6 @@ Check jupyter notebook to see my Python script [here]https://github.com/speedrac
 
 In Part II, I utilized Google's Maps JavaScript API, and cities data from Part I, to create and overlay a heatmap onto Google Maps. Summer-like weather criteria was then used to programatically filter, and select a dozen cities for my next adventure. city geo-coordinates were used to find nearby lodging  Cities were automatically selected by using  to filter the cities.  . The Google Places API was used to find lodging within 5,000 meters located nearby the 
 
-and Places API. locations. The data was  visualize the weather of 800+ cities, across the world of varying distances from the equator. Random coordinates were generated, then used to find the nearest cities.  based on a defined range of latitudes. In Part II, VactionPy, builds upon data acquired from Part I to plan a future vacation, using jupyter-maps and Goolge Places API to display humidity information on a heat map, find ideal weather conditions and select a hotel for each city within 5000 meters of the selected coordinates. Lastly, hotels are plotted on top of the humidity heatmap, with a pin containing the hotel name, city and country.
 
 ## Table of contents
 * [General info](#general-info)
